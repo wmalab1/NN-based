@@ -1,1 +1,1 @@
-# jscc_mimo
+# NN-based
