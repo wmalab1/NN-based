@@ -1,7 +1,7 @@
 #========================================================================================================
 # Joint Source, Channel and Space-Time Coding Based on Deep Learning in MIMO (rician fading)
 #
-# main_github_new.py
+# main.py
 #
 # 0. import packages
 # 1. Settings: DNN structure & MIMO system parameters
